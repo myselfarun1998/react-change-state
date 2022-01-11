@@ -4,6 +4,7 @@ import Button from './Button.js';
 export default class App extends React.Component {
   constructor() {
     super();
+    let s = 'hhh';
     this.state = {
       name: '',
       city: '',
